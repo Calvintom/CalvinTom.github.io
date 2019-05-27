@@ -1474,7 +1474,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rrFReV1xWJ .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 3.8rem - 4.5rem);
+    max-height: calc(100vh - 8rem);
   }
   .cid-rrFReV1xWJ .collapsed .dropdown .dropdown-menu {
     overflow: hidden;
@@ -2201,7 +2201,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rrFRkvDt42 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 3.8rem - 4.5rem);
+    max-height: calc(100vh - 8rem);
   }
   .cid-rrFRkvDt42 .collapsed .dropdown .dropdown-menu {
     overflow: hidden;
@@ -2887,7 +2887,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rrFfeYij2Y .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 3.8rem - 4.5rem);
+    max-height: calc(100vh - 8rem);
   }
   .cid-rrFfeYij2Y .collapsed .dropdown .dropdown-menu {
     overflow: hidden;
@@ -3775,7 +3775,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rrFRmFT66t .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 3.8rem - 4.5rem);
+    max-height: calc(100vh - 8rem);
   }
   .cid-rrFRmFT66t .collapsed .dropdown .dropdown-menu {
     overflow: hidden;
@@ -4461,7 +4461,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rrFRiorMvC .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 3.8rem - 4.5rem);
+    max-height: calc(100vh - 8rem);
   }
   .cid-rrFRiorMvC .collapsed .dropdown .dropdown-menu {
     overflow: hidden;
@@ -4565,7 +4565,7 @@ body {
 .cid-rrFJDGpqdh {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background10.jpg");
+  background-image: url("../../../assets/images/background12.jpg");
 }
 .cid-rrFJDGpqdh .mbr-overlay {
   background: linear-gradient(90deg, #4284df, #6441a5);
@@ -5209,7 +5209,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rrFfeYij2Y .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 3.8rem - 4.5rem);
+    max-height: calc(100vh - 8rem);
   }
   .cid-rrFfeYij2Y .collapsed .dropdown .dropdown-menu {
     overflow: hidden;
